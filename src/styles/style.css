@@ -1,0 +1,8 @@
+.thumb, .info {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.info {
+    width: 300px;
+}
